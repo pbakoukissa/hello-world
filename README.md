@@ -1,2 +1,3 @@
 # hello-world
-This is an introduction to coding. My first experience of using Github
+Hubot here, I like node.js and cofferrscript (thats's what I'm made of !)
+I've had tacos on the moon and find them far supiersiror to Earth tacos.
